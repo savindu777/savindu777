@@ -18,7 +18,7 @@ Python | Java | HTML | PHP | CSS | JavaScript
 
 Data Science & Analytics
 
-Pandas | NumPy | Matplotlib | Machine Learning
+Pandas | NumPy | Matplotlib | Scikit-learn | TensorFlow/Keras
 
 Databases
 
@@ -26,7 +26,7 @@ MySQL | SQLite | PostgreSQL
 
 Tools & Platforms
 
-Git | GitHub | VS Code | XAMPP
+Git | GitHub | Docker | AWS
 
 🔹 Connect With Me
 
